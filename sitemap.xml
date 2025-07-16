@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://dezdeqness.github.io/mobile-stack-page/</loc>
+        <lastmod>2025-07-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://dezdeqness.github.io/mobile-stack-page/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/"/>
+    </url>
+    <url>
+        <loc>https://dezdeqness.github.io/mobile-stack-page/en/</loc>
+        <lastmod>2025-07-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://dezdeqness.github.io/mobile-stack-page/"/>
+    </url>
+</urlset>
