@@ -499,7 +499,7 @@
   
   
   <span class="md-ellipsis">
-    Risk management
+    Risk Management
     
   </span>
   
@@ -526,6 +526,19 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Estimation techniques
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -537,6 +550,52 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#classification-of-estimation-techniques" class="md-nav__link">
+    <span class="md-ellipsis">
+      Classification of Estimation Techniques
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#top-estimation-techniques" class="md-nav__link">
+    <span class="md-ellipsis">
+      Top Estimation Techniques
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips-for-effective-estimation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tips for Effective Estimation
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -573,12 +632,12 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../delegation.md" class="md-nav__link">
+      <a href="../delegation/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    None
+    Delegation
     
   </span>
   
@@ -660,6 +719,41 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#classification-of-estimation-techniques" class="md-nav__link">
+    <span class="md-ellipsis">
+      Classification of Estimation Techniques
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#top-estimation-techniques" class="md-nav__link">
+    <span class="md-ellipsis">
+      Top Estimation Techniques
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips-for-effective-estimation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tips for Effective Estimation
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -675,6 +769,208 @@
 
 
 <h1 id="estimation-techniques">Estimation techniques</h1>
+<p>There are numerous estimation techniques used in software development to assess time and effort. They range from quick intuitive methods to strict numerical models. Here’s an overview of the most popular ones.</p>
+<hr />
+<h2 id="classification-of-estimation-techniques">Classification of Estimation Techniques</h2>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Example Methods</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relative/Scaled</td>
+<td>Story Points, T-Shirt Sizes</td>
+</tr>
+<tr>
+<td>Time-based</td>
+<td>Hour/Day Estimation, Three-point Estimation (PERT)</td>
+</tr>
+<tr>
+<td>Comparative</td>
+<td>Planning Poker, Affinity Mapping</td>
+</tr>
+<tr>
+<td>Analytical</td>
+<td>Function Point Analysis, Use Case Estimation</td>
+</tr>
+<tr>
+<td>Historical</td>
+<td>Velocity, Throughput</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="top-estimation-techniques">Top Estimation Techniques</h2>
+<ol>
+<li>
+<p><strong>Story Points</strong></p>
+<ul>
+<li>
+<p>Measures relative complexity of tasks.</p>
+</li>
+<li>
+<p>Uses Fibonacci numbers: 1, 2, 3, 5, 8, 13…</p>
+</li>
+<li>
+<p>Not tied to hours.</p>
+</li>
+<li>
+<p>Commonly used in Scrum.</p>
+</li>
+</ul>
+<p>✅ Works well under high uncertainty.</p>
+<p>❌ Requires experience and historical data for calibration.</p>
+</li>
+<li>
+<p><strong>T-Shirt Sizes</strong></p>
+<ul>
+<li>
+<p>Estimates tasks in categories: XS, S, M, L, XL.</p>
+</li>
+<li>
+<p>Quick, rough, and visual.</p>
+</li>
+</ul>
+<p>✅ Useful for prioritizing features.</p>
+<p>❌ Lacks precision and hard to aggregate.</p>
+</li>
+<li>
+<p><strong>Planning Poker</strong></p>
+<ul>
+<li>
+<p>Team estimates tasks using cards (usually Fibonacci numbers).</p>
+</li>
+<li>
+<p>Everyone reveals estimates simultaneously.</p>
+</li>
+<li>
+<p>Discrepancies are discussed.</p>
+</li>
+</ul>
+<p>✅ Helps uncover hidden risks.</p>
+<p>❌ Slow for large backlogs.</p>
+</li>
+<li>
+<p><strong>Three-Point Estimation (PERT)</strong></p>
+<ul>
+<li>
+<p>Measures three values:</p>
+</li>
+<li>
+<p>Optimistic (O) — best case</p>
+</li>
+<li>
+<p>Most likely (M) — most probable</p>
+</li>
+<li>
+<p>Pessimistic (P) — worst case</p>
+</li>
+<li>
+<p>Formula for expected estimation:</p>
+</li>
+<li>
+<p>Expected = (O + 4*M + P) / 6</p>
+</li>
+</ul>
+<p>✅ Provides a more realistic average estimate.</p>
+<p>❌ More labor-intensive process.</p>
+</li>
+<li>
+<p><strong>Function Point Analysis</strong></p>
+<ul>
+<li>
+<p>Measures system size based on functionality (inputs, outputs, files, interfaces).</p>
+</li>
+<li>
+<p>Suitable for large business applications.</p>
+</li>
+</ul>
+<p>✅ Independent of programming language and platform.</p>
+<p>❌ Complex, not suitable for small tasks.</p>
+</li>
+<li>
+<p><strong>Use Case Estimation</strong></p>
+<ul>
+<li>
+<p>Assigns weights to use cases (simple, average, complex).</p>
+</li>
+<li>
+<p>Total estimate is the sum of weighted use cases.</p>
+</li>
+</ul>
+<p>✅ Well-suited for product-oriented systems.</p>
+<p>❌ Not ideal for technical or backend tasks.</p>
+</li>
+<li>
+<p><strong>Bucket System</strong></p>
+<ul>
+<li>
+<p>Tasks are sorted into predefined "buckets" (0.5, 1, 2, 3, 5, 8…).</p>
+</li>
+<li>
+<p>Quick comparison without lengthy discussion.</p>
+</li>
+</ul>
+<p>✅ Scalable for large backlogs.</p>
+<p>❌ Context may be lost with rough sorting.</p>
+</li>
+<li>
+<p><strong>Dot Voting / Affinity Mapping</strong></p>
+<ul>
+<li>
+<p>Team groups and ranks tasks by similarity.</p>
+</li>
+<li>
+<p>Quickly identifies high-value blocks.</p>
+</li>
+</ul>
+<p>✅ Great for early-stage feature planning.</p>
+<p>❌ Subjective, requires facilitation.</p>
+</li>
+<li>
+<p><strong>Velocity-Based Estimation</strong></p>
+<ul>
+<li>
+<p>Uses real data from past sprints (velocity).</p>
+</li>
+<li>
+<p>Helps forecast deadlines and plan scope.</p>
+</li>
+</ul>
+<p>✅ Data-driven and factual.</p>
+<p>❌ Requires a stable team and multiple iterations.</p>
+</li>
+<li>
+<p><strong>No Estimation</strong></p>
+<ul>
+<li>Some teams abandon estimation, working with fixed WIP and forecasting throughput.</li>
+</ul>
+<p>✅ Experimentally effective for mature teams.</p>
+<p>❌ Hard for stakeholders to understand; requires discipline.</p>
+</li>
+</ol>
+<hr />
+<h2 id="tips-for-effective-estimation">Tips for Effective Estimation</h2>
+<ul>
+<li>
+<p>Combine multiple techniques when needed. Example: Story Points for backlog + Three-Point Estimation for critical tasks.</p>
+</li>
+<li>
+<p>Re-estimate periodically based on historical data.</p>
+</li>
+<li>
+<p>Document assumptions to avoid confusion.</p>
+</li>
+<li>
+<p>Train the team on the chosen method to improve accuracy.</p>
+</li>
+<li>
+<p>Include risk factors and buffer for uncertainty.</p>
+</li>
+</ul>
 
 
 
