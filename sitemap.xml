@@ -2,141 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ru" href="https://dezdeqness.github.io/mobile-stack-page/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="https://dezdeqness.github.io/mobile-stack-page/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/about/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/about/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/hard/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/hard/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/code/codesmells/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/code/codesmells/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/code/grasp/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/code/grasp/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/code/solid/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/code/solid/"/>
     </url>
     <url>
+        <loc>https://dezdeqness.github.io/mobile-stack-page/en/code/testdoubles/</loc>
+        <lastmod>2025-09-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/code/testdoubles/"/>
+    </url>
+    <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/conflict/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/conflict/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/customervalues/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/customervalues/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/delegation/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/delegation/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/dod/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/dod/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/dor/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/dor/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/estimations/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/estimations/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/nfr/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/nfr/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/priority/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/priority/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/risk/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/risk/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/smart/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/smart/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/agile/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/agile/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/kanban/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/kanban/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/scrum/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/scrum/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/sdlc/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/sdlc/"/>
     </url>
     <url>
         <loc>https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/waterfall/</loc>
-        <lastmod>2025-09-20</lastmod>
+        <lastmod>2025-09-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://dezdeqness.github.io/mobile-stack-page/en/soft/sdlc/waterfall/"/>
     </url>
